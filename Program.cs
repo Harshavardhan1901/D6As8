@@ -10,8 +10,8 @@ namespace Assignment8
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Salary Calculation System");
-            Console.WriteLine("========================");
+            Console.WriteLine("*** Salary Calculation System ***");
+            Console.WriteLine("=================================");
 
             Console.WriteLine("Choose Employee Type:");
             Console.WriteLine("1. HR");
